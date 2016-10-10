@@ -1,0 +1,5 @@
+<div class="row" id="user-list">
+  <h4 id="status"></h4>
+  <video id="caller-video"></video>
+  <video id="my-video"></video>
+</div>
