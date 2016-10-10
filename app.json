@@ -1,0 +1,16 @@
+{
+  "name": "Symposium",
+  "description": "A WebRTC application to replicate Google's Hangouts On Air functionality.",
+  "keywords": [],
+  "repository": "https://github.com/dantame/symposium",
+  "env": {},
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "https://github.com/HashNuke/heroku-buildpack-elixir.git"
+    },
+    {
+      "url": "https://github.com/gjaldon/heroku-buildpack-phoenix-static.git"
+    }
+  ]
+}
